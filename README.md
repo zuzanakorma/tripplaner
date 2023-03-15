@@ -48,9 +48,7 @@ git clone https://github.com/zuzanakorma/tripplaner.git
 
 1. Check the backend service is running
 
-   ```http
    http://localhost:8080
-   ```
 
 1. Make sure the application keeps running in case you close the terminal
 
