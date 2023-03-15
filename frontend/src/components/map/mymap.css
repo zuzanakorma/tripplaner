@@ -1,0 +1,7 @@
+#map{
+    margin:5% 30%; 
+}
+
+.mapboxgl-marker{
+    background-color: transparent;
+}
