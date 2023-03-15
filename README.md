@@ -43,12 +43,12 @@ git clone https://github.com/zuzanakorma/tripplaner.git
 1. Run the commands
 
    ```console
-   npm install && npm run dev
+   npm install && npm run build && npm run dev
    ```
 
 1. Check the backend service is running
 
-   http://localhost:8080
+   http://localhost:8080/trips
 
 1. Make sure the application keeps running in case you close the terminal
 

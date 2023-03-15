@@ -56,7 +56,7 @@ export default function AddForm(props: AppProps) {
       try{
         const response = await api.post("/trips", tripData)
         setTitle('')
-        setCountry('')
+        setCountry('AF')
         setCity('')
         e.target.reset()
         props.onSubmitHandler(response.data)
